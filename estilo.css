@@ -1,0 +1,207 @@
+/* Estrutura do site
+------------------------------------ */
+body {	
+	font: 12px "Lucida Grande", "Lucida Sans Unicode", Arial, sans-serif;
+}
+
+body#gon {
+	background: #f4f2ec url(fundo1.png) repeat-x;
+}
+
+body#index  {
+	background: #f4f2ec url(fundo.png) repeat-x;
+}
+
+body#killua {
+	background: #f4f2ec url(fundo4.png) repeat-x;
+}
+
+body#leorio {
+	background: #f4f2ec url(fundo2.png) repeat-x;
+}
+
+body#kurapika {
+	background: #f4f2ec url(fundo3.png) repeat-x;
+}
+
+
+
+#container {
+	width: 1080px;
+	margin: 0 auto;
+}
+
+a:link, a:visited {
+	color: #858384;
+	text-decoration: none;
+}
+
+
+a:hover , a:active  {
+	color: white;
+}
+
+
+#leorio a:hover {
+	color: white;
+}
+
+#leorio1 a:hover {
+	color: black;
+} 
+
+#gon a:hover {
+	color: black;
+}
+
+#killua a:hover {
+	color: white;
+}
+
+#killua1 a:hover {
+	color: black;
+}
+
+#kurapika a:hover {
+	color: #cc2237;
+}
+
+#index a:hover {
+	color: #602229;
+}
+
+
+
+
+/* Logo 
+------------------------------------ */
+#logo h1 {
+	float: left;
+}
+
+#logo a {
+	width: 248;
+	height: 21px;
+	text-indent:  -9999px;
+	display: block;
+	background: url(logo.png) no-repeat;
+}
+
+
+/* Barra de navegação 
+------------------------------------ */
+header {
+	padding: 15px 0;
+	height: 55px;
+}
+
+nav ul {
+	list-style: none;
+	margin: 20px;
+	float: right;
+}
+
+nav ul li {
+	float: left;
+}
+
+
+nav ul li a:link {
+	display: block;
+	margin-right: 25px;
+	padding-bottom: 3px;
+	text-transform: uppercase;
+}
+
+
+/* Principal 
+------------------------------------ */
+#conteudo {
+	width: 710px;
+	float: left;
+	margin-bottom: 20px;
+}
+
+aside {
+	width: 350px;
+	float: right;
+	background: #F4F2EC;
+	padding-bottom: 30px;
+	margin-bottom: 20px;
+}
+
+section#galeria {
+	padding: 0 25px 0 25px;
+}
+
+section#galeria a {
+	display: block;
+	background: url(fundo-foto.png) no-repeat;
+	float: left;
+	padding: 17px 15px 17px 15px;
+	margin: 10px 30px 30px -20px;
+}
+
+
+section#galeria img {
+	margin-left: 2px;
+	margin-top: 3px;
+}
+
+article#video {
+	float: left;
+	width: 310px;
+	margin-left: 25px;
+}
+
+
+article#exposicoes {
+	float: left;
+	width: 310px;
+	margin: 15px 0 0 25px;
+}
+
+article#historia {
+	float: left;
+	width: 310px;
+	margin: 15px 0 0 37px;
+}
+
+h3 {
+	color: black;
+	font-size: 1.0em;
+	margin-bottom: 15px;
+	text-transform: uppercase;
+}
+
+h4 {
+	color: black;
+	text-transform: uppercase;
+	padding-bottom: 3px;
+	margin-bottom: 0;
+}
+
+/* Rodapé
+------------------------------------ */
+footer {
+	clear: both;
+	padding: 20px 0 30px 0;
+	text-align: center;
+	background: url(fundo-rodape.png) no-repeat center top;
+	margin-top: 20px;
+}
+
+footer>p a {
+	padding: 2px 10px;}
+
+footer a:hover  {
+	color: black;
+}
+
+legend {
+	display: none;
+}
+
+
+
+

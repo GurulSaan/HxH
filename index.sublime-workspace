@@ -1,0 +1,534 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ve",
+				"variavel1"
+			],
+			[
+				"var",
+				"variavel2"
+			],
+			[
+				"va",
+				"variavel1"
+			],
+			[
+				"vari",
+				"variavel1"
+			],
+			[
+				"t",
+				"teste"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"a",
+				"auto\tflex-basis"
+			],
+			[
+				"fl",
+				"flex-basis\tproperty"
+			],
+			[
+				"f",
+				"flex-shrink\tproperty"
+			],
+			[
+				"flex",
+				"flex-shrink\tproperty"
+			],
+			[
+				"or",
+				"order\tproperty"
+			],
+			[
+				"s",
+				"space-around\tjustify-content"
+			],
+			[
+				"w",
+				"wrap-reverse\tflex-wrap"
+			],
+			[
+				"co",
+				"column-reverse\tflex-direction"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"u",
+				"Url"
+			],
+			[
+				"bord",
+				"border\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"al",
+				"alternate\tanimation-direction"
+			],
+			[
+				"ani",
+				"animation-direction\tproperty"
+			],
+			[
+				"anim",
+				"animation-iteration-count\tproperty"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"re",
+				"repeat-y"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"h",
+				"href\tAttr"
+			],
+			[
+				"text",
+				"text-indent\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"to",
+				"topo"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"i",
+				"imagens"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"tr",
+				"Trebuchet"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"ita",
+				"italico"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"te",
+				"texto2"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"hi",
+				"hidden\tAttr"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"M",
+				"MG"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dell/Desktop/udemy/CSS 3/Site d noticias/index.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO - AVANÇADO/paralax/index.html",
+		"/C/Users/Dell/Desktop/muu/paralax/index.html",
+		"/C/Users/Dell/Desktop/muu/index.html",
+		"/C/Users/Dell/Desktop/udemy/CSS3 AVANÇADO/Museu nacional/index.html",
+		"/C/Users/Dell/Desktop/udemy/JS/casting.html",
+		"/C/Users/Dell/Desktop/udemy/JS/meu-script.js",
+		"/C/Users/Dell/Desktop/udemy/JS/index.html",
+		"/C/Users/Dell/Desktop/udemy/JS/variaveis.html",
+		"/C/Users/Dell/Desktop/udemy/JS/variaveis2.html",
+		"/C/Users/Dell/Desktop/udemy/JS/operadores-if-else.html",
+		"/C/Users/Dell/Desktop/deletados jaja/arquivos_da_aula/casting.html",
+		"/C/Users/Dell/Desktop/udemy/Museu nacional/index.html",
+		"/C/Users/Dell/Desktop/udemy/Museu nacional/CSS/estilo.css",
+		"/C/Users/Dell/Desktop/udemy/Museu nacional/CSS/normalize.css",
+		"/C/Users/Dell/Desktop/udemy/CSS3 AVANÇADO/css/style.css",
+		"/C/Users/Dell/Desktop/udemy/CSS3 AVANÇADO/flexbox2.html",
+		"/C/Users/Dell/Desktop/udemy/CSS3 AVANÇADO/flexbox.html",
+		"/C/Users/Dell/Desktop/udemy/CSS3 AVANÇADO/novastagsinput.html",
+		"/C/Users/Dell/Desktop/udemy/CSS3 AVANÇADO/novastags2.html",
+		"/C/Users/Dell/Desktop/udemy/CSS3 AVANÇADO/novastags.html",
+		"/C/Users/Dell/Desktop/udemy/CSS3 AVANÇADO/transicoes.html",
+		"/C/Users/Dell/Desktop/udemy/CSS3 AVANÇADO/normalize.html",
+		"/C/Users/Dell/Desktop/udemy/CSS3 AVANÇADO/css/transicoes;html.html",
+		"/C/Users/Dell/Desktop/udemy/CSS3 AVANÇADO/animacoes.html",
+		"/C/Users/Dell/Desktop/udemy/CSS3 AVANÇADO/css/animacoes.html",
+		"/C/Users/Dell/Desktop/udemy/CSS3 AVANÇADO/Sombras.html",
+		"/C/Users/Dell/Desktop/udemy/CSS3 AVANÇADO/degrade.html",
+		"/C/Users/Dell/Desktop/udemy/CSS3 AVANÇADO/boxsizing.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO - AVANÇADO/paralax/fontes.html",
+		"/C/Users/Dell/Downloads/00/chale-hotel/index.html",
+		"/C/Users/Dell/Desktop/udemy/Chalé/estilo.css",
+		"/C/Users/Dell/Desktop/udemy/Site d noticias/index.html",
+		"/C/Users/Dell/Desktop/udemy/Site d noticias/css/estilo.css",
+		"/C/Users/Dell/Desktop/udemy/Site d noticias/economia.html",
+		"/C/Users/Dell/Desktop/udemy/Site d noticias/saude.html",
+		"/C/Users/Dell/Desktop/udemy/Site d noticias/fotos.html",
+		"/C/Users/Dell/Desktop/udemy/Site d noticias/internacional.html",
+		"/C/Users/Dell/Desktop/udemy/Site d noticias/brasil.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO - AVANÇADO/arredondamento.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO - AVANÇADO/css/estilo.css",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO - AVANÇADO/formulario2.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO - AVANÇADO/CSS/estilo.css",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO - AVANÇADO/tabelas.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO - AVANÇADO/Layout fixo.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO - AVANÇADO/navegação orizontal.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO - AVANÇADO/horizontal.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO - AVANÇADO/index.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO - AVANÇADO/servicos.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO - AVANÇADO/sobre.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO - AVANÇADO/barra vertical.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO - AVANÇADO/Herança.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO - AVANÇADO/seletores.html",
+		"/C/Users/Dell/Desktop/udemy/GuBlog/Css/estilo.css",
+		"/C/Users/Dell/Desktop/udemy/GuBlog/estilo.css",
+		"/C/Users/Dell/Desktop/udemy/GuBlog/index.html",
+		"/C/Users/Dell/Desktop/udemy/GuBlog - Copia/index.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO/inline-block.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO/posicionamentos.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO/sobreponto-elementos.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO/links.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO/estilo.css",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO/modelo-caixa.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO/elementos-flutuantes.html",
+		"/C/Users/Dell/Desktop/udemy/CSS 3 INTERMEDIARIO/elementos-flutuantes-pratica.html",
+		"/C/Users/Dell/Desktop/CSS 3/projeto miju/estilo.css",
+		"/C/Users/Dell/Desktop/CSS 3/projeto miju/ctt.html",
+		"/C/Users/Dell/Desktop/CSS 3/projeto miju/index.html",
+		"/C/Users/Dell/Desktop/CSS 3/projeto miju/biografia.html",
+		"/C/Users/Dell/Desktop/CSS 3/projeto miju/campanha.html",
+		"/C/Users/Dell/Desktop/CSS 3/estilo-css.css",
+		"/C/Users/Dell/Desktop/CSS 3/estilo-css-externo.html",
+		"/C/Users/Dell/Desktop/CSS 3/estilo-css-externo2.html",
+		"/C/Users/Dell/Desktop/CSS 3/color-background.html",
+		"/C/Users/Dell/Desktop/CSS 3/estilo-texto.html",
+		"/C/Users/Dell/Desktop/CSS 3/tamanho-textos.html",
+		"/C/Users/Dell/Desktop/CSS 3/fontes-cores.html",
+		"/C/Users/Dell/Desktop/CSS 3/bordas.html",
+		"/C/Users/Dell/Desktop/CSS 3/div-spac.html",
+		"/C/Users/Dell/Desktop/CSS 3/classes_ids.html",
+		"/C/Users/Dell/Desktop/CSS 3/classes-ids2.html",
+		"/C/Users/Dell/Desktop/CSS 3/inline_style.html",
+		"/C/Users/Dell/Desktop/udemy/arquivos-necessarios-projetos-unes/CTT.html",
+		"/C/Users/Dell/Desktop/udemy/Primeiro Projeto/projeto.html",
+		"/C/Users/Dell/Desktop/udemy/Primeiro Projeto/index.html",
+		"/C/Users/Dell/Desktop/udemy/Primeiro Projeto/contato.html",
+		"/C/Users/Dell/Desktop/udemy/arquivos-necessarios-projetos-unes/index.html",
+		"/C/Users/Dell/Desktop/udemy/arquivos-necessarios-projetos-unes/QMSOMOS.html",
+		"/C/Users/Dell/Desktop/udemy/Projeto Aula/index.html",
+		"/C/Users/Dell/Desktop/udemy/Projeto Aula/css/estilo-teste.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
